@@ -306,6 +306,38 @@ h3 {
     padding: 0px 60px;
     margin: 0 auto;
 }
+.blog_main_section {
+    margin: 25px 50px;
+    font-size: 87.5%;
+}
+.blog_post h5 {
+    font-size: 110%;
+    padding-top: 20px;
+    font-weight: normal; 
+}
+.blog_main_section h3 {
+    text-align: center;
+    padding: 20px 20px;
+    border-bottom: 2px solid #ccc;
+}
+.blog_post {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 15px;
+}
+.blog_post a {
+    float: right;
+}
+div.blog_post img {
+    height: auto;
+    width: 40%;
+}
+.blog_author {
+    font-size: 68%;
+}
+.textwrap {
+    float: left;
+    margin: 10px;
+}
 .fr {
     float: right;
 }
